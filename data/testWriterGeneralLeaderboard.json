@@ -1,0 +1,12 @@
+{"Players": [
+    {
+        "Losses": 3,
+        "Wins": 2,
+        "Name": "Sam"
+    },
+    {
+        "Losses": 1,
+        "Wins": 4,
+        "Name": "Bob"
+    }
+]}

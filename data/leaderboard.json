@@ -1,0 +1,17 @@
+{"Players": [
+    {
+        "Losses": 2,
+        "Wins": 2,
+        "Name": "Daman"
+    },
+    {
+        "Losses": 1,
+        "Wins": 1,
+        "Name": "Mazen"
+    },
+    {
+        "Losses": 1,
+        "Wins": 1,
+        "Name": "Sam"
+    }
+]}
